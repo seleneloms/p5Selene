@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">p5Selene</string>
+    <string name="bienvenido">bienvenido</string>
+    <string name="saludo">saludo</string>
+    <string name="imagen">paisaje</string>
+
+</resources>
